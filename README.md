@@ -17,4 +17,4 @@ Support PWA, Add it to desktop for better experience
 You can check the tx to Remove vitual LP and Create Raydium Pool in this smart contract.  
 https://explorer.solana.com/tx/4L6MWmtV1ZsT8NFfbtu68ZYyYVbpvZ4iynJhPdZw8jESi28TxwojjTFs88Q5QRdNUb297aWfkKcoYP9Ya8npx8AV?cluster=devnet
 
-### If you have some questions, ask @lendon1114 in Telegram and !.lendon in Discord
+### If you have some questions, ask @davevasu in Telegram and bambi_bf in Discord
